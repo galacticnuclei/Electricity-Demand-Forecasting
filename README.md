@@ -11,3 +11,5 @@ Addressed multicollinearity in weather inputs (VIF, condition number)
 
 Tech Stack:
 Python (pandas, numpy, statsmodels, sklearn)
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/yug201/delhi-5-minute-electricity-demand-for-forecasting
